@@ -1,0 +1,2 @@
+Hello everyone this project is a tentative of next step forecatsing using graph neural network (GNN), to perform physic based simulations as Lennard Jones dynamic or particle base simulation in general ! 
+Further implementation may go farer and try with non classical physic !

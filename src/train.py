@@ -1,4 +1,3 @@
-# src/train.py
 from src.model import ParticleGNN
 from src.data_utils import generate_particles
 

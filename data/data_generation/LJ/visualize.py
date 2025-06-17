@@ -16,6 +16,6 @@ for t in range(0, steps, 50):
     plt.ylim(0, box_size)
     plt.title(f"Step {t}")
     plt.scatter(*trajectory[t].T, c='blue')
-    plt.pause(0.1)
+    plt.pause(0.05)
 
 plt.show()
